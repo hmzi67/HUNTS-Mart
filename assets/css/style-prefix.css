@@ -843,7 +843,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
 }
 
 .banner-content {
-  background: hsla(0, 0%, 100%, 0.8);
+  background: hsla(0, 0%, 0%, 0.8);
   position: absolute;
   bottom: 25px;
   left: 25px;
